@@ -1,4 +1,3 @@
-alert('x');
 function rep(url){
   let u1=["https://","http://","www.",".com","m.youtube","youtube","youtu","/"];
   let u2="";
