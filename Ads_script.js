@@ -15,7 +15,7 @@ let vid1='<iframe  src="';
  
 let vid2='?&autoplay=1 " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
 
-let ads=["<script type='text/javascript' src='//pl17668397.profitablegatetocontent.com/e1/46/48/e14648e095f415cdbd8902b6c7d07f16.js'></script>","<div id="container-54554ae1658f3fb5bb169910a7ddd118"></div>"];
+let ads=["<script type='text/javascript' src='//pl17668397.profitablegatetocontent.com/e1/46/48/e14648e095f415cdbd8902b6c7d07f16.js'></script>",'<div id="container-54554ae1658f3fb5bb169910a7ddd118"></div>'];
   
   
   
